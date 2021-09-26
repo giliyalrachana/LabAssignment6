@@ -1,0 +1,2 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment6\LabAssignment6\LabAssignment6\obj\Debug\LabAssignment6.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment6\LabAssignment6\LabAssignment6\obj\Debug\LabAssignment6.csproj.CoreCompileInputs.cache
